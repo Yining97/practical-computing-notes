@@ -1,6 +1,6 @@
 # Running Jupyter Notebooks on HPC Compute Nodes with VS Code
 
-A complete guide for running Jupyter Lab on GPU compute nodes using VS Code Remote-SSH with automatic port selection and secure token authentication. For connecting to HPC in the log-in node in VS Code, see [VS Code on HPC] (https://wanggroup.org/hpc/docs/vscode/).
+A complete guide for running Jupyter Lab on GPU compute nodes using VS Code Remote-SSH with automatic port selection and secure token authentication. For connecting to HPC in the log-in node in VS Code, see [VS Code on HPC](https://wanggroup.org/hpc/docs/vscode).
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
