@@ -8,8 +8,6 @@ A complete guide for running Jupyter Lab on GPU compute nodes using VS Code Remo
 - [Detailed Setup](#detailed-setup)
 - [Usage Instructions](#usage-instructions)
 - [Troubleshooting](#troubleshooting)
-- [Customization](#customization)
-- [FAQ](#faq)
 
 ---
 
