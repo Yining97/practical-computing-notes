@@ -299,5 +299,4 @@ srun --pty -t 8:00:00 -c 4 --mem=16G --gres=gpu:1 bash  # 8 hours
 
 ---
 
-**Last Updated:** January 2026  
-**Tested With:** VS Code 1.95+, Jupyter Lab 4.0+, SLURM 23.x+
+**Last Updated:** January 2026
